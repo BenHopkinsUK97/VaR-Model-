@@ -19,7 +19,7 @@ assumptions:
 
 This analytic price is used as a benchmark.
 
-
+---
 Monte Carlo Simulation
 The Monte Carlo pricer simulates the terminal asset price ( Assest price at time t) 
 
