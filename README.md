@@ -8,5 +8,5 @@ It uses Yahoo Finance as the data source and contains functions to calculate the
 I plan on expanding this work to include a portfolio of assets rather than just a single asset.
 
 ```bash
-python black_scholes.py
+
 
